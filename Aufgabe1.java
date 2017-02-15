@@ -49,7 +49,7 @@
 
     Zusatzfragen:
     1.  Wie würden Sie vorgehen, wenn alle schwarzen Felder des Bretts (z.B. das Feld links unten und das Feld rechts
-    oben) auf denen kein Turm steht mit dem Symbol * gekennzeichnet werden sollen?
+    oben) auf denen kein Turm steht mit dem Symbol * gekennzeichnet werden sollen? jaaaa
 
 */
 public class Aufgabe1 {
